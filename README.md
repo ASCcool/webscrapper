@@ -42,7 +42,6 @@ pip install -r requirements.txt
 # Put these contents inside .env 
 API_SECRET_TOKEN=<your_api_token>
 PRODUCT_PAGE_BASE_URL=https://dentalstall.com/shop/page/
-PROXY_ENDPOINT=<web_proxy_endpoint>
 GMAIL_SENDER=your-email@gmail.com
 GMAIL_APP_PASSWORD=<gmail-app-password>
 NOTIFICATION_EMAIL=recipient-email@gmail.com
