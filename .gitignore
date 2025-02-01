@@ -1,0 +1,6 @@
+data/
+venv/
+*.rdb
+.env
+.idea/
+__pycache__/
