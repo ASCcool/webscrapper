@@ -13,7 +13,7 @@ This project is a Python-based web scraper built using FastAPI, BeautifulSoup, a
 - Implements **Redis caching** for pricing data to prevent unnecessary updates.
 - **Retries failed requests** (e.g., due to server errors).
 - Requires **API authentication** using a static token.
-- Sends **email notifications** upon completion of job via console and email.
+- Sends **notifications** upon completion of job via **console** and **email**.
 
 ---
 
